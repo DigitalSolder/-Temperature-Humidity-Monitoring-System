@@ -1,4 +1,4 @@
-Here’s a polished and engaging version of your **AI-enhanced Temperature & Humidity Monitoring System** writeup—formatted just like your **Advanced Home Automation** description, complete with icons, clear sections, and ready for **GitHub README** or documentation.
+**Enhanced Temperature & Humidity Monitoring System** 
 
 ---
 
