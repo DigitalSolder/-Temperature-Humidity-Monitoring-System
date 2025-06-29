@@ -2,7 +2,7 @@
 
 ---
 
-# 🌡️ AI-Enhanced Temperature & Humidity Monitoring System
+# 🌡️ Enhanced Temperature & Humidity Monitoring System
 
 **An Intelligent Environment Monitoring Project using ESP32, OLED, DHT22, RTC, and AI-Mimicked Logic (Simulated on Wokwi)**
 
