@@ -144,8 +144,6 @@ Status: AI ALERT!
 ## 🔗 Try It Live on Wokwi
 
 🎮 **Wokwi Simulation Link**
-🔗 [https://wokwi.com/projects/433874417151259137](https://wokwi.com/projects/433874417151259137)
+🔗 https://wokwi.com/projects/434688351511806977
 
 ---
-
-Would you like a GitHub-friendly `README.md` version or PDF download too?
